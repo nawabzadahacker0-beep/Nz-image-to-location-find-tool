@@ -1,0 +1,12 @@
+{
+    "name": "Image GeoLocator — HackerAI",
+    "short_name": "GeoLocator",
+    "description": "Extract GPS location from images using EXIF data. Professional pentest tool by Nawab Zada Hacker.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0e17",
+    "theme_color": "#0a0e17",
+    "icons": [
+        { "src": "/favicon.ico", "sizes": "64x64", "type": "image/x-icon" }
+    ]
+}
